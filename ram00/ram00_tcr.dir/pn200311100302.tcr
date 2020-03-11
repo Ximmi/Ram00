@@ -1,0 +1,10 @@
+#Start recording tcl command: 3/11/2020 09:05:29
+#Project Location: C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/ram00; Project name: ram00
+prj_project new -name "ram00" -impl "ram0" -dev LCMXO2-7000HE-5TG144C -synthesis "synplify"
+prj_src add "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/osc00VHDL/div00.vhdl" "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/osc00VHDL/osc00.vhdl" "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/osc00VHDL/oscint00.vhdl" "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/osc00VHDL/packageosc00.vhdl"
+prj_project save
+prj_src add "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/ram00/contring00.vhdl"
+prj_src add "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/ram00/coder00.vhdl"
+prj_project save
+prj_project close
+#Stop recording: 3/11/2020 10:03:02

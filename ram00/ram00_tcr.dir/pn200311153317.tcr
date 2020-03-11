@@ -1,0 +1,6 @@
+#Start recording tcl command: 3/11/2020 15:30:06
+#Project Location: C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/ram00; Project name: ram00
+prj_project open "C:/Users/hp/Documents/ESCOM/Materias/Arqui/Practica/ram00/ram00.ldf"
+prj_project save
+prj_project close
+#Stop recording: 3/11/2020 15:33:17
